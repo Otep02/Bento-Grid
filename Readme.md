@@ -23,7 +23,7 @@ This challenge makes your skill in css grid, flexbox and possitioning
 
 ### Links
 
-- Solution URL: [[Add solution URL here]
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-bento-grid-P5tvJBTMCO
 - Live Site URL: https://otep02.github.io/Bento-Grid/
 
 ## My process
